@@ -9,7 +9,7 @@ about:
 
 ## Hi, I'm Tiffany!
 
-The home page is the ten-second version. This is the longer story — write it in
+The home page is the ten-second version. HII!!! This is the longer story — write it in
 your own voice.
 
 I came to data science from \[your path: a major, a job, a question that would
