@@ -7,7 +7,7 @@ about:
   image-width: 12em
 ---
 
-## Hi, I'm Blitz 👋
+## Hi, I'm Tiffany!
 
 The home page is the ten-second version. This is the longer story — write it in
 your own voice.
@@ -30,6 +30,6 @@ together.
 
 I'm happy to talk about \[data work, collaborations, roles\].
 
-- ✉️ [you@willamette.edu](mailto:you@willamette.edu)
+- ✉️ [ttru2322@gmail.com](mailto:ttru2322@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your_github_username)
 - 💻 [GitHub](https://github.com/your_github_username)
