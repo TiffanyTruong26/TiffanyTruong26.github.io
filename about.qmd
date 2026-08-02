@@ -9,22 +9,25 @@ about:
 
 ## Hi, I'm Tiffany!
 
-The home page is the ten-second version. This is the longer story — write it in
-your own voice.
+Welcome to my portfolio! Here, you will find a collection of projects that I have 
+enjoyed wroking on, a list of my skills and areas of expertise, and a few fun
+facts about me!
 
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
+I came to data science from a Public Health background. I started unviersity interested 
+in how we can navigate and address many of the disparities that are seen within our
+systems. After taking a Introduction to Data Science course, I realized that data science 
+is a powerful tool for telling the stories of our communities, informing decision making 
+and bringing about change to our systems. 
 
-At Willamette my focus has been \[your emphasis: forecasting, causal inference,
-NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
+At Willamette my focus has been engaging communities with data and identifying how data can 
+be used to visualize disparities to inform decsion-making. My [capstone](capstone.qmd) is where that comes
 together.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 🌲 I'm a reader and always looking for a good book recommendation!
+- 💬 I speak three languages! English, Chinese, Mandarin.
+- 🎯 In the next two years, I want to learn how to drive a manual car!
 
 ### Get in touch
 
