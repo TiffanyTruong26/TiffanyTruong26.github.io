@@ -6,9 +6,9 @@ toc: true
 [📄 Download PDF](assets/Truong_Tiffany_07_2026.pdf){.btn .btn-primary role="button"}
 
 ::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
+Thanks for taking some time to check out my resume! See below for a preview of the resume
+and click "Download PDF" above to save the resume. Like others, I am always seeking new opportunities! 
+Please look forward to updates and feel free to contact me if there are any questions or issues.
 :::
 
 <iframe src="assets/Truong_Tiffany_07_2026.pdf" width="100%" height="800px"
@@ -30,9 +30,9 @@ web summary below is what recruiters skim; the PDF is what they download.
 | **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
 | **Communication** | Technical writing, data visualization |
 
-## Experience
+## Current Role
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Program Technician** — Multnaomah County Health Department, Portland, OR *(June 2025- Present)*
 
 - Accomplishment framed as impact, not a task description.
 - Another accomplishment with a number in it if you have one.
