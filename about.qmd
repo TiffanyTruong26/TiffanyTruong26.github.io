@@ -11,7 +11,7 @@ about:
 
 Welcome to my portfolio and corner of the internet! Here, you will get to learn about
 my professional journey, including my professional experiences, some projects I have 
-enjoyed working on and a few fun tidbits about me.
+enjoyed working on, and a few fun tidbits about me.
 
 To introduct myself, I came to data science from a Public Health background. I started 
 unviersity interested in studying public health to understad how we can navigate and address 
