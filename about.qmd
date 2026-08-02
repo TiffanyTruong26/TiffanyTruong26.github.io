@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: images/profile.png
+image: images/07_2021.jpg
 about:
   template: solana
   image-shape: round
@@ -34,5 +34,5 @@ together.
 I'm happy to talk about \[data work, collaborations, roles\].
 
 - ✉️ [ttru2322@gmail.com](mailto:ttru2322@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your_github_username)
-- 💻 [GitHub](https://github.com/your_github_username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiffany-truong-/)
+- 💻 [GitHub](https://github.com/TiffanyTruong26)

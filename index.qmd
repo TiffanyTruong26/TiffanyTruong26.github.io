@@ -1,7 +1,7 @@
 ---
-title: "Blitz Bearcat"
+title: "Tiffany Truong"
 subtitle: "M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/Truong_Tiffany_07_2026_img.jpg
 about:
   template: trestles
   image-shape: round
@@ -9,13 +9,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/TiffanyTruong26
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://linkedin.com/in/tiffany-truong-
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:ttru2322@gmail.com
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
