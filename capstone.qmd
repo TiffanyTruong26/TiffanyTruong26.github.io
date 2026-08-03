@@ -7,19 +7,15 @@ categories: [capstone, machine-learning, R]
 toc: true
 ---
 
-::: {.callout-note appearance="simple"}
-This is the anchor of your portfolio. A hiring manager who reads only one page
-should read this one. Replace every bracketed placeholder, then delete this note.
-:::
 
 ## The one-liner
 
-> We integrated **\[data sources\]** into **\[dataset\]** so that
-> **\[stakeholder\]** can **\[decision they can now make\]**.
+> We integrated **library e-resource usage data** into **unversity enrollment data** so that
+> **Willamette University's librarians** can **identify patterns in the usage of resources and support decision-making on which resources to invest in**.
 
 **Role:** \[e.g. I led the data pipeline and validation.\]
-**Team:** \[solo, or name + link teammates.\]
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+**Team:** \[Sophia Rabbanian](https://sophiarabb.github.io/), [Emily Strickland](https://emvstrick.github.io/)
+**Repo:** [github.com/sophiarabb/data510-libraries](https://github.com/sophiarabb/data510-libraries)
 
 ## The question
 
