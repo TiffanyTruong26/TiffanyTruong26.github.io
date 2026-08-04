@@ -3,7 +3,7 @@ title: "Capstone: [Your Capstone Title]"
 subtitle: "A one-sentence hook: what you built and who it helps."
 date: 2026-07-27
 image: projects/capstone/featured.svg
-categories: [capstone, machine-learning, R]
+categories: [capstone, data visualization, R, SQL, Python]
 toc: true
 ---
 
@@ -13,21 +13,24 @@ toc: true
 > We integrated **library e-resource usage data** into **unversity enrollment data** so that
 > **Willamette University's librarians** can **identify patterns in the usage of resources and support decision-making on which resources to invest in**.
 
-**Role:** \[e.g. I led the data pipeline and validation.\]
-**Team:** \[Sophia Rabbanian](https://sophiarabb.github.io/), [Emily Strickland](https://emvstrick.github.io/)
+**Role:** I led analysis of journal package usage over time and identified similar visualization projects.
+**Team:** [Sophia Rabbanian](https://sophiarabb.github.io/), [Emily Strickland](https://emvstrick.github.io/)
 **Repo:** [github.com/sophiarabb/data510-libraries](https://github.com/sophiarabb/data510-libraries)
 
 ## The question
 
-What problem were you solving, and why does it matter to a real stakeholder?
-Two or three sentences. No jargon a hiring manager would have to look up.
+Willamette University has 3 libraries: Mark O. Hatfield Library (Salem Main Campus), J.W. Long Law Library (Salem Law Campus), and the Albert Solheim Library (PNCA Portland Campus). Each library has their own physical resources as well as shares a collection of electronic resources among all libraries. This includes journals, research papers and articles, and often come in packages bought by the library from publishers. In recent years, the WU Librarians have had no avenue to analyze patterns in journal requests and usage.
+
+The library staff desires to understand the Willamette community's online journal usage as a whole as well as how it relates to enrollment in different departments. Through our analysis, the librarians will be able to consider which electronic materials are the most important to maintain, and which to deprioritize. Since some departments are smaller, they may be more likely to be hit by cuts if their resources have lower usage request figures. Willamette’s librarians are striving to optimize their resources while maintaining fairness between departments and being good stewards of research.
+
 
 ## The data
 
-Where the data came from, how much of it, and the one hard thing about it
-(missingness, joins across sources, scale, privacy). This is your data
-engineering story — the part the repo link backs up.
+This project combines data from 2 different sources: WU Library Usage Request Reports and the Willamette University Factbooks. While the data was fairly clean and complete, there was some work to do for both data sources before it was possible to download it. We needed to label each journal with its subject, and write a script to get the enrollment information into a digestible file type.
 
+This data was downloaded and ingested into a PostgreSQL database where it was placed into staging tables. The new tables were then created, and the data was inserted from the staging tables into the new organized tables, which contained the appropriate foreign and primary keys to ensure ease in using joins for our analysis. Our organized schema can be seen below:
+
+image: 
 ## The approach
 
 Your method at portfolio depth: shorter than your M4 write-up, longer than a
