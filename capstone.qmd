@@ -32,10 +32,10 @@ This data was downloaded and ingested into a PostgreSQL database where it was pl
 
 ![ERD Image](images/ERD.jpg)
 
+
 ## The approach
 
-Your method at portfolio depth: shorter than your M4 write-up, longer than a
-tweet. What did you try, what did you keep, and why.
+We use exploratory analysis and descriptive statistics rather than predictive modeling. The stakeholder question is descriptive: which resources are being used, by whom, and how usage is changing over time. A predictive model would answer a question the librarians did not ask, and with under three years of monthly data there is not enough history to train or validate one honestly.
 
 ## Findings
 
