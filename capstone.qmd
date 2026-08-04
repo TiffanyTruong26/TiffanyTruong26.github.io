@@ -14,7 +14,9 @@ toc: true
 > **Willamette University's librarians** can **identify patterns in the usage of resources and support decision-making on which resources to invest in**.
 
 **Role:** I led analysis of journal package usage over time and identified similar visualization projects.
+
 **Team:** [Sophia Rabbanian](https://sophiarabb.github.io/), [Emily Strickland](https://emvstrick.github.io/)
+
 **Repo:** [github.com/sophiarabb/data510-libraries](https://github.com/sophiarabb/data510-libraries)
 
 ## The question
