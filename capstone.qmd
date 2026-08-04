@@ -30,7 +30,8 @@ This project combines data from 2 different sources: WU Library Usage Request Re
 
 This data was downloaded and ingested into a PostgreSQL database where it was placed into staging tables. The new tables were then created, and the data was inserted from the staging tables into the new organized tables, which contained the appropriate foreign and primary keys to ensure ease in using joins for our analysis. Our organized schema can be seen below:
 
-image: 
+![ERD Image](images/ERD.jpg)
+
 ## The approach
 
 Your method at portfolio depth: shorter than your M4 write-up, longer than a
