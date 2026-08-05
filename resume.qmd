@@ -18,30 +18,39 @@ Please look forward to updates and feel free to contact me if there are any ques
 ## Education
 
 **M.S. Data Science** — Willamette University, Salem, OR *(2026)*
+
 **B.S. Data Science** — Willamette University, Salem, OR *(2026)*
+
 **B.A. Public Health** — Willamette University, Salem, OR *(2026)*
+
 
 ## Skills
 
 | Area | Tools |
 |------|-------|
-| **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| **Languages** | R, Python, SQL, ArcGIS |
+| **Data & ML** | tidyverse, pandas, scikit-learn, numpy |
+| **Workflow** | Git, Quarto, JuypterNotebooks, Airflow |
+| **Communication** | Technical writing, data visualization, community engaged research|
 
 ## Current Role
 
 **Program Technician** — Multnaomah County Health Department, Portland, OR *(June 2025- Present)*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+At Multnomah County Health Department, I worked with across Health Department divsions and departments to develop a county wide Community Health Improvement Plan (CHIP) using community driven data. To do this I collaborated with other Public Health practitioners to:
 
-## Projects
+- Lead and coordinate the qualitative analysis of focus group sessions to capture input from over 300 community members to understand and revise CHIP priority areas to align with community needs.
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+- Develop and code a Collaboration Tool using GoogleSQL containing over 450 activities done by programs across Public Health and Behavioral Divisions to promote collaboration and create greater visibility across the broader health department.
 
-- One line on the problem and your role.
+- Regularly presented findings and CHIP progress to department leadership and program managers to ensure communication and progress of the larger CHIP process.
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
+
+## Relevant Projects
+
+**Exploring Multifaceted Approaches to Engaging Community Voice to Assess and UNderstand Community Health Needs** — see the [Projects page](projects.qmd) for the full story.
+
+- By examining multiple approaches, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
+
+<!-- *Placeholders in brackets are fine while you build. Replace them with real,
+defensible entries as they materialize — sparse and true beats full and shaky.* -->
