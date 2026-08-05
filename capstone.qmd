@@ -99,11 +99,11 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
 
 ::: -->
 
-## Dig deeper
-
 <iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
+
+## Dig deeper
 
 - 📦 **Code & pipeline:** [GitHub Repository](https://github.com/sophiarabb/data510-libraries)
 - 📊 **poster:** [Final Poster](projects/capstone/M5%20Final%20Poster.pdf)
