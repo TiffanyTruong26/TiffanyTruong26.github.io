@@ -1,5 +1,5 @@
 ---
-title: "Reading the Data - An Analysis of Willamette University Library's E-Resource Usage"
+title: "Data Science Capstone"
 subtitle: "Leveraging Data to Inform Decision-Making"
 date: 2026-07-27
 image: projects/capstone/featured.svg
