@@ -17,7 +17,7 @@ website:
       - href: index.qmd
         text: Home
       - href: capstone.qmd
-        text: Capstone
+        text: Capstones
       - href: projects.qmd
         text: Projects
       - href: resume.qmd
