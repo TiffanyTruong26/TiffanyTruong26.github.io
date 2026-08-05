@@ -22,16 +22,13 @@ about:
 ---
 
 I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+Right now I am finishing my M.S. in Data Science at **Willamette University**.
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
-who has to trust it.
+I care about health equity, community engaged data processes, translating data into actionable insights, 
+and explaining a model to the person who has to trust it.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** research analyst and public health data roles
+starting August 2026. Feel free to [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -48,12 +45,19 @@ Willamette University, 2026
 ### 🛠️ Toolkit
 R · Python · SQL
 Quarto · Git · Airflow 
+Google Suite · Jupyter Notebooks 
+ArcGIS
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### ㊗️ Languages
+English · Mandarin · Cantonese
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to remote / relocation
+Open to remote and relocation
 :::
 
 :::
