@@ -45,8 +45,7 @@ Willamette University, 2026
 ### 🛠️ Toolkit
 R · Python · SQL
 Quarto · Git · Airflow 
-Google Suite · Jupyter Notebooks 
-ArcGIS
+Google Suite · Jupyter Notebooks · ArcGIS
 :::
 
 ::: {.g-col-12 .g-col-md-4}
