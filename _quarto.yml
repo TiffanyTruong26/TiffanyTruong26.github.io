@@ -16,8 +16,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: capstone.qmd
-        text: Capstones
+      - text: Capstones
+        menu:
+          - href: pheal_capstone.qmd
+          - text: "Public Health Capstone"
+          - href: capstone.qmd
+          - text: "MSDS Data Science Capstone"
       - href: projects.qmd
         text: Projects
       - href: resume.qmd
