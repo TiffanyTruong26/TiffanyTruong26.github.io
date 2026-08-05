@@ -43,12 +43,31 @@ We use exploratory analysis and descriptive statistics rather than predictive mo
 
 Lead with your best figure or your architecture diagram.
 
-![Replace with your key result or system diagram.](projects/capstone/featured.svg){fig-alt="Placeholder capstone figure" width="90%"}
+![E-Resource Usage Over Time](projects/capstone/Over%20time.png){fig-alt="Placeholder capstone figure" width="90%"}
 
-State the finding in plain language, then the caveat. Sparse and true beats
-full and shaky.
+Usage tracks the academic calendar closely. Requests peak in the middle of each term, fall off sharply during winter and summer breaks, and reach their yearly low in June and July. Fall consistently produces the highest sustained usage of the three terms.
 
-## The full write-up
+The clearer finding is the direction of the trend. The twelve month trailing mean fell from roughly 787 unique requests per month to roughly 556, a decline of 29% over the most recent year. Because the panel of journals is held constant, this is not a reporting gap. The decline also appears within the publishers that supplied a single continuous export file, which rules out the deduplication step as a cause. We report the decline as real and note that this analysis cannot identify its cause. The rise of large language models as a research tool is one plausible explanation, but nothing in this data tests it.
+
+![Usage by Major](projects/capstone/Departments.png){fig-alt="Placeholder capstone figure" width="90%"}
+
+Women’s & Gender Studies (WGS) is a huge outlier, with an average of 3.88 majors per term, but 957 total requests. While 957 is not a particularly high amount of requests (9th overall), having such low enrollment leads to the outlier. While there is no obvious reason for why this might be, we hypothesize that it could be a mix of:
+
+1. popular topics for research in WGS journals, which mostly focus on sexuality, gender identity, or women’s studies
+
+2. classes in other departments, like PNCA’s liberal arts, using WGS-labeled journals
+
+3. use by other campus organizations like the Gender Resource & Advocacy Center (GRAC).
+
+Overall, this graphic shows that enrollment is not a strong indicator of journal usage, given the variation and the volume of out-of-major journal usage by students, faculty and staff alike.
+
+
+## Discussion/Outcomes
+
+While the above hypotheses require further research to fully understand and confirm their validity, this indicates an overall need to develop a better understanding of what student needs are regarding library resources. Understanding how students are navigating research, what research tools students are exposed to in classes, and finally, what resources/topics of interest are to the student body will allow Willamette’s librarians to better tailor and optimize resources to the needs of Willamette’s student body.
+
+
+<!-- ## The full write-up
 
 Pick the option that matches where your write-up lives, keep one, delete the rest.
 
@@ -78,9 +97,9 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
   width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
 ```
 
-:::
+::: -->
 
 ## Dig deeper
 
-- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
-- 📊 **Slides / poster:** \[link if you have one\]
+- 📦 **Code & pipeline:** [GitHub Repository](https://github.com/sophiarabb/data510-libraries)
+- 📊 **poster:** [Final Poster](projects/capstone/M5%20Final%20Poster.pdf)
