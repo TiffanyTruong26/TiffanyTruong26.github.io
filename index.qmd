@@ -21,15 +21,16 @@ about:
       href: resume.qmd
 ---
 
-I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**.
+I translate messy data into insights and decisions that people can act on while maintaining 
+a community-centered approach. Having just finished my Bachelors in Publice Health and I am 
+working on finishing my M.S. in Data Science at **Willamette University**.
 
-I care about health equity, community engaged data processes, translating data into actionable insights, 
-and explaining a model to the person who has to trust it.
+I care about health equity, community engaged data processes, and translating data into actionable 
+insights for all audiences.
 
 **Currently looking for** research analyst and public health data roles
 starting August 2026. Feel free to [Get in touch](about.qmd) or grab my
-[resume](resume.qmd).
+[resume](resume.qmd)!
 
 ---
 
@@ -39,10 +40,16 @@ starting August 2026. Feel free to [Get in touch](about.qmd) or grab my
 ### 🎓 Education
 M.S. Data Science
 Willamette University, 2026
+
+B.A. Public Health
+Willamette University, 2026
+
+B.S. Data Science
+Willamette University, 2026s
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### 🛠️ Toolkit
+### 🛠️ Toolkits
 R · Python · SQL
 Quarto · Git · Airflow 
 Google Suite · Jupyter Notebooks · ArcGIS
