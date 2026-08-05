@@ -18,10 +18,10 @@ website:
         text: Home
       - text: Capstones
         menu:
-          - href: pheal_capstone.qmd
-          - text: "Public Health Capstone"
-          - href: capstone.qmd
-          - text: "MSDS Data Science Capstone"
+        - href: pheal_capstone.qmd
+        - text: "Public Health Capstone"
+        - href: capstone.qmd
+        - text: "MSDS Data Science Capstone"
       - href: projects.qmd
         text: Projects
       - href: resume.qmd
