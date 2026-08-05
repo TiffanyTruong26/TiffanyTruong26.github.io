@@ -1,0 +1,9 @@
+---
+title: "Capstone Projects"
+subtitle: "Leveraging Data to Inform Decision-Making"
+date: 2026-07-27
+image: projects/capstone/featured.svg
+categories: [capstone, data visualization, R, SQL, Python]
+toc: true
+---
+
