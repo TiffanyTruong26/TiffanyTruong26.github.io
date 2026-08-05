@@ -1,6 +1,6 @@
 ---
 title: "Capstone: Reading the Data - An Analysis of Willamette University Library's E-Resource Usage "
-subtitle: "Using Data Visualization to Inform Higher Education Decision-Making"
+subtitle: "Leveraging Data Visualization to Inform Higher Education Decision-Making"
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, data visualization, R, SQL, Python]
