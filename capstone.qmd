@@ -1,5 +1,5 @@
 ---
-title: "Capstone Projects"
+title: "Reading the Data - An Analysis of Willamette University Library's E-Resource Usage"
 subtitle: "Leveraging Data to Inform Decision-Making"
 date: 2026-07-27
 image: projects/capstone/featured.svg
@@ -7,20 +7,7 @@ categories: [capstone, data visualization, R, SQL, Python]
 toc: true
 ---
 
-# Public Health Capstone: Exploring Multifaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs
-
-## The one-liner
-Willamette University has 3 libraries: Mark O. Hatfield Library (Salem Main Campus), J.W. Long Law Library (Salem Law Campus), and the Albert Solheim Library (PNCA Portland Campus). Each library has their own physical resources as well as shares a collection of electronic resources among all libraries. This includes journals, research papers and articles, and often come in packages bought by the library from publishers. In recent years, the WU Librarians have had no avenue to analyze patterns in journal requests and usage.
-
-## The question
-Willamette University has 3 libraries: Mark O. Hatfield Library (Salem Main Campus), J.W. Long Law Library (Salem Law Campus), and the Albert Solheim Library (PNCA Portland Campus). Each library has their own physical resources as well as shares a collection of electronic resources among all libraries. This includes journals, research papers and articles, and often come in packages bought by the library from publishers. In recent years, the WU Librarians have had no avenue to analyze patterns in journal requests and usage.
-
-## The data
-Willamette University has 3 libraries: Mark O. Hatfield Library (Salem Main Campus), J.W. Long Law Library (Salem Law Campus), and the Albert Solheim Library (PNCA Portland Campus). Each library has their own physical resources as well as shares a collection of electronic resources among all libraries. This includes journals, research papers and articles, and often come in packages bought by the library from publishers. In recent years, the WU Librarians have had no avenue to analyze patterns in journal requests and usage.
-
------------
-
-# Master's Capstone Project: Reading the Data - An Analysis of Willamette University Library's E-Resource Usage
+# Reading the Data - An Analysis of Willamette University Library's E-Resource Usage
 
 ## The one-liner
 
