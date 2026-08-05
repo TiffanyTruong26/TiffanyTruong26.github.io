@@ -43,9 +43,6 @@ Willamette University, 2026
 
 B.A. Public Health
 Willamette University, 2026
-
-B.S. Data Science
-Willamette University, 2026s
 :::
 
 ::: {.g-col-12 .g-col-md-4}
