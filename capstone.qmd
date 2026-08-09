@@ -44,13 +44,13 @@ We use exploratory analysis and descriptive statistics rather than predictive mo
 
 Lead with your best figure or your architecture diagram.
 
-![E-Resource Usage Over Time](projects/capstone/Over%20time.png){fig-alt="Placeholder capstone figure" width="90%"}
+![E-Resource Usage Over Time](projects/capstone/fig1.png){fig-alt="Placeholder capstone figure" width="90%"}
 
 Usage tracks the academic calendar closely. Requests peak in the middle of each term, fall off sharply during winter and summer breaks, and reach their yearly low in June and July. Fall consistently produces the highest sustained usage of the three terms.
 
 The clearer finding is the direction of the trend. The twelve month trailing mean fell from roughly 787 unique requests per month to roughly 556, a decline of 29% over the most recent year. Because the panel of journals is held constant, this is not a reporting gap. The decline also appears within the publishers that supplied a single continuous export file, which rules out the deduplication step as a cause. We report the decline as real and note that this analysis cannot identify its cause. The rise of large language models as a research tool is one plausible explanation, but nothing in this data tests it.
 
-![Usage by Major](projects/capstone/Departments.png){fig-alt="Placeholder capstone figure" width="90%"}
+![Usage by Major](projects/capstone/fig2.png){fig-alt="Placeholder capstone figure" width="90%"}
 
 Women’s & Gender Studies (WGS) is a huge outlier, with an average of 3.88 majors per term, but 957 total requests. While 957 is not a particularly high amount of requests (9th overall), having such low enrollment leads to the outlier. While there is no obvious reason for why this might be, we hypothesize that it could be a mix of:
 
@@ -108,3 +108,4 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
 
 - 📦 **Code & pipeline:** [GitHub Repository](https://github.com/sophiarabb/data510-libraries)
 - 📊 **poster:** [Final Poster](projects/capstone/M5%20Final%20Poster.pdf)
+- 🌐 **capstone website:** [Capstone Website](https://sophiarabb.github.io/reading-the-data-capstone.github.io/)
