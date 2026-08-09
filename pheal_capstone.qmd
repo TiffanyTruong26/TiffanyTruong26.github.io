@@ -3,7 +3,7 @@ title: "Public Health Capstone"
 subtitle: "Leveraging Data and Community Engagement to Inform Decision-Making"
 date: 2026-07-27
 image: projects/capstone/featured.svg
-categories: [capstone, community engaged research]
+categories: [capstone, public health, community engaged research]
 toc: true
 ---
 
@@ -11,7 +11,7 @@ toc: true
 
 ## The One-Liner
 
-> At the **Multnomah County Health Department**, we integrated a mixed methods approach to develop the **2026-2029 Multnomah County Community Health Improvement Plan (CHIP)** by combining **qualitative data** (community engaged research and focus groups) with **quantitative data** (county health indicators) so that the
+> We integrated a mixed methods approach to develop the **2026-2029 Multnomah County Community Health Improvement Plan (CHIP)** by combining **qualitative data** (community engaged research and focus groups) with **quantitative data** (county health indicators) so that the
 > **Multnomah County Health Department** can **identify key priority areas and strategies to invest in to support community health and decrease health inequities in Multnomah County**.
 
 **Role:** Led analysis of community informed data through analysis of previous community assessments and coordinated analysis of Focus Groups.
@@ -34,22 +34,106 @@ Data was used to inform the MCHD CHIP in two different stages. Each stage utiliz
 This stage utilized both quantitative and qualitative data to draft CHIP goals and strategies. Data utilized during this stage includes:
 
 
-* **Recently Conducted Community Health Assessments and Recent Community Input**
+**Recently Conducted Community Health Assessments and Recent Community Input**
 
 > In collaboration with Health Department programs, our team collected 24 community engaged assessments completed within the last five years that contained community input. These assessments were then analyzed to identify the community's most recent needs (e.g. challenges, barriers) and most recent suggestions (things the community would like to see to support their health).
 
-![Figure 1 Cross Walking Recent and Recet Community Needs](projects/PHEAL_capstone/Truong_Tiffany_PHEAL_Capstone_2026.png)
+> By cross-walking and understanding how community experiences have changed regarding the county's previous priorities, allows our team to update the CHIP priority areas and strategies and establish the foundational priority areas for our draft CHIP.
+
+![Figure 1 Cross Walking Recent Community Needs](projects/PHEAL_capstone/Truong_Tiffany_PHEAL_Capstone_2026.png)
 
 
 
+**Health Outcome Indicators**
 
-* **Health Outcome Indicators**
-
-Health Outcome Indicators are quantifiable measures used to evaluate the changes in a population's health state including: disease burden, chronic disease, life expectancy, rates of violence.
-
+> Health Outcome Indicators are quantifiable measures used to evaluate the changes in a population's health state including: disease burden, chronic disease, life expectancy, rates of violence. Our analysis utilized traditional public health indicators to identify where there are health disparities regarding race and income. Identifying health disparities allow us to refine the priorities and strategies identified through our analysis of community input.
 
 
+The findings from Stage 1 of our analysis resulted identifying 3 Priority Areas and 12 Strategies that are directly informed by community feedback and data.
 
-## Results & Discussion
+::: {.panel-tabset}
+
+### 1. Healthy and Connected Communities
+
+**Goal:** Everyone has access to spaces where they live, learn, work, play and worship that support health, safety, and belonging across the lifetime.
+
+**Strategies:**
+
+1. Support and promote inclusive community spaces and opportunities to create belonging across the lifespan.
+
+2. Empower and support community-centered work that prevents violence and promotes community safety.
+
+3. Identify and reduce physical and behavioral health risks related to environmental threats and extreme weather events.
+
+
+### 2 · Resources Essential for Well-being and Stability 
+
+**Goal:** Everyone has access to resources and opportunities that support individual, family and community health, well-being and stability.
+
+**Strategies:**
+
+4. Promote access to transitional housing options and pathways to long-term housing stability.
+
+5. Prevent and reduce health risks in the home environment that make people sick or injured.
+
+6. Connect people with resources that support school readiness, high school graduation, financial wellness, economic opportunity, and retirement readiness.
+
+7. Increase access to culturally relevant and nutritious food and food assistance programs.
+
+8. Promote access to safe, affordable, and accessible transportation options.
+
+### C · Access to Equitable Care
+
+**Goal:** Everyone is able to easily care for their physical and mental health, reach their personal health goals, and lead long, happy lives.
+
+**Strategies:**
+
+9. Lessen barriers that limit people from getting the care and services that they need.
+
+10. Identify and reduce gaps in care, strengthen health system coordination and capacity.
+
+11. Strengthen systems, programs, and policies that make healthy living easier for everyone.
+
+12. Provide reliable health information to communities based on science, data, and community wisdom.
+
+::: 
+
+
+### Stage 2: Community Resonance Sessions
+Once an initial draft of the 2026-2029 CHIP was developed, the community was once again engaged to review and provide feedback on the draft CHIP. This was accomplished through our “Resonance Check Sessions”.  “Resonance Check Sessions” or Resonance Checks are focus groups held with external and internal partners to allow for the community to provide feedback on the draft CHIP. This process ensures that the draft CHIP  “resonates” with the community.  In the case of the CHIP,  “resonance”  means that CHIP Priority Areas and Strategies align with and are directly informed by, the communities’ needs and cultural values. This definition allows the county to answer the core research question:
+
+>  “How can the health department make sure the 2026-2029 CHIP addresses the right issues with the right approaches as defined by the community”.
+
+Resonance
+
+::: {.panel-tabset}
+
+### A · Results by the Numbers
+
+If your write-up is a `.qmd`, copy it into `projects/capstone/index.qmd` and
+link it, or fold its sections directly into this page. Set `eval: false` (or
+rely on `freeze`) on any chunk that needs data the public repo does not contain.
+
+### B · Revision of the Draft CHIP Language 
+
+```markdown
+[Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
+
+<iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
+  style="border: 1px solid #ddd;"></iframe>
+```
+
+### C · Informing Implementation Planning
+
+```markdown
+[Read the full write-up](https://docs.google.com/document/d/e/XXXX/pub){.btn .btn-primary}
+
+<iframe src="https://docs.google.com/document/d/e/XXXX/pub?embedded=true"
+  width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
+```
+
+::: -->
+
+## Results 
 
 This analysis will result in a implemented and trackable plan and reports. Please stay tuned for the finalized and published reports and CHIP dashboard!
