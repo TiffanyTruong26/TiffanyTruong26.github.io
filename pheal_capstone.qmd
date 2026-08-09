@@ -82,7 +82,7 @@ The findings from Stage 1 of our analysis resulted identifying 3 Priority Areas 
 
 8. Promote access to safe, affordable, and accessible transportation options.
 
-### C · Access to Equitable Care
+### 3 · Access to Equitable Care
 
 **Goal:** Everyone is able to easily care for their physical and mental health, reach their personal health goals, and lead long, happy lives.
 
@@ -98,42 +98,36 @@ The findings from Stage 1 of our analysis resulted identifying 3 Priority Areas 
 
 ::: 
 
-
 ### Stage 2: Community Resonance Sessions
 Once an initial draft of the 2026-2029 CHIP was developed, the community was once again engaged to review and provide feedback on the draft CHIP. This was accomplished through our “Resonance Check Sessions”.  “Resonance Check Sessions” or Resonance Checks are focus groups held with external and internal partners to allow for the community to provide feedback on the draft CHIP. This process ensures that the draft CHIP  “resonates” with the community.  In the case of the CHIP,  “resonance”  means that CHIP Priority Areas and Strategies align with and are directly informed by, the communities’ needs and cultural values. This definition allows the county to answer the core research question:
 
->  “How can the health department make sure the 2026-2029 CHIP addresses the right issues with the right approaches as defined by the community”.
+>  “How can the health department make sure the 2026-2029 CHIP addresses the right issues with the right approaches as defined by the community”
 
-Resonance
+Findings from Resonance Sessions supported CHIP development in multiple ways. Click through the following tabs to see how Resonance Findings impacted the development and implementation of the CHIP.
 
 ::: {.panel-tabset}
 
-### A · Results by the Numbers
+### Results by Numbers
 
-If your write-up is a `.qmd`, copy it into `projects/capstone/index.qmd` and
-link it, or fold its sections directly into this page. Set `eval: false` (or
-rely on `freeze`) on any chunk that needs data the public repo does not contain.
+Between January - March 2026, our team held multiple resonance sessions engaging multiple partners and community organizations serving the communities of Multnomah County.
 
-### B · Revision of the Draft CHIP Language 
+**Our Results by the Numbers:**
 
-```markdown
-[Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
+* 26 Resonance Sessions held
 
-<iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
-  style="border: 1px solid #ddd;"></iframe>
-```
+* 375 Community members engaged
 
-### C · Informing Implementation Planning
+* 20 Organizations and Coalitions engaged
 
-```markdown
-[Read the full write-up](https://docs.google.com/document/d/e/XXXX/pub){.btn .btn-primary}
 
-<iframe src="https://docs.google.com/document/d/e/XXXX/pub?embedded=true"
-  width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
-```
+### Refining Language 
 
-::: -->
+Community members reviewed the CHIP language/framing to identify points of confusion, or gaps in the language that may leave out communities. This feedback supported the addition of more inclusive/accessible language and helped us ensure that we clarify how the Health Department will work towards the CHIP goals.
 
-## Results 
 
-This analysis will result in a implemented and trackable plan and reports. Please stay tuned for the finalized and published reports and CHIP dashboard!
+### Implementation Planning
+
+Resonance Session participants also identified actions they would like to see done to support their health. These suggestions were then factored into the development of the CHIP Implementation Plan. The CHIP Implementation plan represent the tangible activities that are done by Health Department programs such as holding events, and connecting people with relevant resources that will make progress on the larger CHIP plan. Each activity included in the CHIP Implementation Plan was crosswalked with community feedback to ensure that it aligned with the feedback and suggestions from the community resonance sessions.
+
+::: 
+
