@@ -5,7 +5,6 @@ date: 2026-07-27
 image: projects/PHEAL_capstone/MCHD.jpg
 about:
     template: marquee
-    image-shape: round
     image-width: 12em
 categories: [capstone, public health, community engaged research]
 toc: true
