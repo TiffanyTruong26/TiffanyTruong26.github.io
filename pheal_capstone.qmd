@@ -20,7 +20,7 @@ toc: true
 
 Public health has long sought to assess community health needs accurately. However, disparities remain between traditional assessment methods and the ability to capture community voice and experiences. To engage multiple community voices, the Multnomah County Health Department (MCHD) utilized a multifaceted approach for the Community Health Improvement Plan (CHIP) development. This paper discusses the efforts used by MCHD to develop the CHIP priority areas and strategies. By examining multiple approaches, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
 
-## Bacgkround - What is a CHIP?
+## Background - What is a CHIP?
 
 Multnomah County's CHIP is a 3-5 year plan that identifies key priorities affecting community health, as well as the strategies and resources that will be used to address those priorities. The CHIP is not limited to issues clarified within traditional public health or health services categories, and includes issues relating to other sectors such as the environment, business, and housing that affect local health.  Thus, the CHIP aims to improve organizational and community collaboration and emphasizes the interconnectedness of activities to support the improvement of local public health systems. Furthermore, the CHIP is developed collaboratively by various community stakeholders and is based on quantitative and qualitative data, as well as community input and wisdom. 
 
@@ -131,3 +131,6 @@ Resonance Session participants also identified actions they would like to see do
 
 ::: 
 
+## Discussion and Deliverables
+
+The final CHIP Report will be published in Fall 2026 outlining our in-depth findings and processes! Through the development of this CHIP report, our team showcases the relevance of mixed methods approaches to engaging community voice in our data collection processes to inform Public Health priorities and planning. 
