@@ -19,9 +19,7 @@ website:
       - text: Capstones
         menu:
         - href: pheal_capstone.qmd
-        - text: Public Health Capstone
         - href: capstone.qmd
-        - text: Data Science Capstone
       - href: projects.qmd
         text: Projects
       - href: resume.qmd
