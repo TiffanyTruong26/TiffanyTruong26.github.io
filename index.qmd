@@ -22,7 +22,7 @@ about:
 ---
 
 I translate messy data into insights and decisions that people can act on while maintaining 
-a community-centered approach. Having just finished my Bachelors in Publice Health and I am 
+a community-centered approach. Having just finished my Bachelors in Public Health and I am 
 working on finishing my M.S. in Data Science at **Willamette University**.
 
 I care about health equity, community engaged data processes, and translating data into actionable 
