@@ -11,23 +11,23 @@ about:
 
 Welcome to my portfolio and corner of the internet! Here, you will get to learn about
 my professional journey. This includes my professional experiences, some projects I have 
-enjoyed working on, and a few fun tidbits about me.
+enjoyed working on, and a few fun facts about me.
 
-I came to data science from a Public Health background. I started unviersity interested in 
-studying public health to understad how we can navigate many of the disparities that are seen 
+I came to data science from a Public Health background. I started university interested in 
+studying public health to understand how we can address the health disparities that are seen 
 within our systems. However, after taking an Introduction to Data Science course, I realized 
-that data science is a powerful tool. It helps us to tell the stories of our communities, 
+that data science is a powerful tool. It helps us tell the stories of our communities, 
 inform our decision making and bring about postive change to our systems. 
 
 At Willamette my focus has been engaging communities with data and identifying how data can 
-be used a a tool for visualization to inform decsion-making. My [capstone projects](capstone.qmd) is where 
+be used a a tool for visualization to inform decsion-making. My [capstone projects](pheal_capstone.qmd) is where 
 these skills have come together for meaningful impact.
 
 ### Beyond the terminal
 
 - 🥟 I love checking out different coffee shops, restaurants and food spots! Always open to some recommendations!
 - 💬 I speak three languages! English, Chinese, Mandarin.
-- 🚗 In the next two years, I want to learn how to drive a manual car!
+- 🚗 In the next two years, I am looking forward to expanding my public health, data and research skills to support positive change for our communities.
 
 ### Get in touch
 
