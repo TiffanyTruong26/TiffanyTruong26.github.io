@@ -48,7 +48,7 @@ At Multnomah County Health Department, I worked with across Health Department di
 
 ## Relevant Projects
 
-**Exploring Multifaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs** — see the [Projects page](projects.qmd) for the full story.
+**Exploring Multifaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs** — see the [Projects page](pheal_capstone.qmd) for the full story.
 
 - By examining multiple approaches, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
 
