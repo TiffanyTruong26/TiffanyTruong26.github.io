@@ -36,11 +36,17 @@ This stage utilized both quantitative and qualitative data to draft CHIP goals a
 
 * **Recently Conducted Community Health Assessments and Recent Community Input**
 
+In collaboration with Health Department programs, our team collected 24 community engaged assessments completed within the last five years that contained community input. These assessments were then analyzed to identify the community's most recent needs (e.g. challenges, barriers) and most recent suggestions (things the community would like to see to support their health).
+
+
+
+
 
 
 * **Health Outcome Indicators**
 
 Health Outcome Indicators are quantifiable measures used to evaluate the changes in a population's health state including: disease burden, chronic disease, life expectancy, rates of violence.
+
 
 
 
