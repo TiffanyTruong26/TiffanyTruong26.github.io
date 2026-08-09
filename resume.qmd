@@ -3,7 +3,7 @@ title: "Resume"
 toc: true
 ---
 
-[📄 Download PDF](assets/Truong_Tiffany_07_2026.pdf){.btn .btn-primary role="button"}
+[📄 Download PDF](assets/Truong_Tiffany_2026.pdf){.btn .btn-primary role="button"}
 
 ::: {.callout-note appearance="simple"}
 Thanks for taking some time to check out my resume! See below for a preview of the resume
@@ -11,7 +11,7 @@ and click "Download PDF" above to save the resume. Like others, I am always seek
 Please look forward to updates and feel free to contact me if there are any questions or issues.
 :::
 
-<iframe src="assets/Truong_Tiffany_07_2026.pdf" width="100%" height="800px"
+<iframe src="assets/Truong_Tiffany_2026.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
