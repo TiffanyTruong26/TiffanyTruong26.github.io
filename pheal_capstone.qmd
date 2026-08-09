@@ -1,9 +1,49 @@
 ---
 title: "Public Health Capstone"
-subtitle: "Leveraging Data to Inform Decision-Making"
+subtitle: "Leveraging Data and Community Engagement to Inform Decision-Making"
 date: 2026-07-27
 image: projects/capstone/featured.svg
-categories: [capstone, data visualization, R, SQL, Python]
+categories: [capstone, community engaged research]
 toc: true
 ---
 
+# Exploring Multiaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs
+
+## The One-Liner
+
+> At the **Multnomah County Health Department**, we integrated a mixed methods approach to develop the **2026-2029 Multnomah County Community Health Improvement Plan (CHIP)** by combining **qualitative data** (community engaged research and focus groups) with **quantitative data** (county health indicators) so that the
+> **Multnomah County Health Department** can **identify key priority areas and strategies to invest in to support community health and decrease health inequities in Multnomah County**.
+
+**Role:** Led analysis of community informed data through analysis of previous community assessments and coordinated analysis of Focus Groups.
+
+## The Summary
+
+Public health has long sought to assess community health needs accurately. However, disparities remain between traditional assessment methods and the ability to capture community voice and experiences. To engage multiple community voices, the Multnomah County Health Department (MCHD) utilized a multifaceted approach for the Community Health Improvement Plan (CHIP) development. This paper discusses the efforts used by MCHD to develop the CHIP priority areas and strategies. By examining multiple approaches, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
+
+## Bacgkround - What is a CHIP?
+
+Multnomah County's CHIP is a 3-5 year plan that identifies key priorities affecting community health, as well as the strategies and resources that will be used to address those priorities. The CHIP is not limited to issues clarified within traditional public health or health services categories, and includes issues relating to other sectors such as the environment, business, and housing that affect local health.  Thus, the CHIP aims to improve organizational and community collaboration and emphasizes the interconnectedness of activities to support the improvement of local public health systems. Furthermore, the CHIP is developed collaboratively by various community stakeholders and is based on quantitative and qualitative data, as well as community input and wisdom. 
+
+
+## Methods - How is the Multnomah County Health Department CHIP informed?
+
+Data was used to inform the MCHD CHIP in two different stages. Each stage utilized different data and methods to understand and make sense of both quantitative and qualitative data to inform and update the Multnomah County Community Health Improvement Plan (CHIP).
+
+### Stage 1: Analyzing Health Data and Community Input to Draft CHIP Goals and Strategies
+
+This stage utilized both quantitative and qualitative data to draft CHIP goals and strategies. Data utilized during this stage includes:
+
+
+* **Recently Conducted Community Health Assessments and Recent Community Input**
+
+
+
+* **Health Outcome Indicators**
+
+Health Outcome Indicators are quantifiable measures used to evaluate the changes in a population's health state including: disease burden, chronic disease, life expectancy, rates of violence.
+
+
+
+## Results & Discussion
+
+This analysis will result in a implemented and trackable plan and reports. Please stay tuned for the finalized and published reports and CHIP dashboard!
