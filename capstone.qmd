@@ -2,7 +2,10 @@
 title: "Data Science Capstone"
 subtitle: "Leveraging Data to Inform Decision-Making"
 date: 2026-07-27
-image: projects/capstone/featured.svg
+image: projects/capstone/library.jpg
+about:
+    template: marquee
+    image-width: 12em
 categories: [capstone, data visualization, R, SQL, Python]
 toc: true
 ---
