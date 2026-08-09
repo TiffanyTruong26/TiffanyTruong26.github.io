@@ -38,7 +38,7 @@ This stage utilized both quantitative and qualitative data to draft CHIP goals a
 
 In collaboration with Health Department programs, our team collected 24 community engaged assessments completed within the last five years that contained community input. These assessments were then analyzed to identify the community's most recent needs (e.g. challenges, barriers) and most recent suggestions (things the community would like to see to support their health).
 
-[Figure 1 Cross Walking Recent and Recet Community Needs](projects/PHEAL_capstone/Truong_Tiffany_PHEAL_Capstone_2026.png)
+![Figure 1 Cross Walking Recent and Recet Community Needs](projects/PHEAL_capstone/Truong_Tiffany_PHEAL_Capstone_2026.png)
 
 
 
