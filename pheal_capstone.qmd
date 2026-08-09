@@ -2,7 +2,8 @@
 title: "Public Health Capstone"
 subtitle: "Leveraging Data and Community Engagement to Inform Decision-Making"
 date: 2026-07-27
-image: projects/capstone/featured.svg
+image: projects/PHEAL_capstone/MCHD.jpg
+template: marquee
 categories: [capstone, public health, community engaged research]
 toc: true
 ---
