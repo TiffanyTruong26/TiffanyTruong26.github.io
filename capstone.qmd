@@ -46,8 +46,6 @@ We use exploratory analysis and descriptive statistics rather than predictive mo
 
 ## Findings
 
-Lead with your best figure or your architecture diagram.
-
 ![E-Resource Usage Over Time](projects/capstone/fig1.png){fig-alt="Placeholder capstone figure" width="90%"}
 
 Usage tracks the academic calendar closely. Requests peak in the middle of each term, fall off sharply during winter and summer breaks, and reach their yearly low in June and July. Fall consistently produces the highest sustained usage of the three terms.
