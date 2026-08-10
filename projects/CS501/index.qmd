@@ -1,5 +1,5 @@
 ---
-title: "Example: [Project Name]"
+title: "Healthcare Spending and Outcomes"
 description: "One line describing what this project does and the skill it shows."
 date: 2026-05-01
 image: titlepage.png
