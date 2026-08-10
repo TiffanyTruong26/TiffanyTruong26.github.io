@@ -2,7 +2,7 @@
 title: "Example: [Project Name]"
 description: "One line describing what this project does and the skill it shows."
 date: 2026-05-01
-image: featured.svg
+image: titlepage.png
 categories: [course-work, python, visualization]
 ---
 
@@ -24,4 +24,4 @@ Worked collaboratively to analyze 30+ years of healthcare spending and health ou
 
 ## Links
 
-- 🔗 [Slides]()
+- 🔗 [Slides](Healthcare%20Spending%20%26%20Outcomes.pdf)
