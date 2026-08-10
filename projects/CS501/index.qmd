@@ -6,24 +6,22 @@ image: featured.svg
 categories: [course-work, python, visualization]
 ---
 
-::: {.callout-tip appearance="simple"}
+<!-- ::: {.callout-tip appearance="simple"}
 This is a sample "other project" card. Copy this folder for each real project,
 edit the front matter (title, date, image, categories), and delete this example
 once you have your own.
-:::
+::: -->
 
 ## What it is
 
-A short paragraph: the question, the data, and what you produced. Two to four
-sentences is plenty for a secondary project.
+Worked collaboratively to analyze 30+ years of healthcare spending and health outcome data. Using regression modeling and data visualization, we identified a greater need for preventative spending and analysis of racial/geographic disparities to improve efficency of healthcare spending allocation.
 
-## What I did
+<!-- ## What I did
 
-- Skill or step one (e.g. scraped and cleaned \[source\]).
+- rese
 - Skill or step two (e.g. built a \[model / dashboard / viz\]).
-- The result (e.g. \[metric, insight, or artifact\]).
+- The result (e.g. \[metric, insight, or artifact\]). -->
 
 ## Links
 
-- 📦 [Repo](https://github.com/your_github_username/this-project)
-- 🔗 \[Live demo / notebook / write-up, if any\]
+- 🔗 [Slides]()
