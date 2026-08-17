@@ -85,9 +85,10 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
 
 
 <details>
-  <summary> Recommendation 1: Promote Library E-Resources Early in the Semester </summary>
+  <summary> Recommendation 1: Promote Library E-Resources Early in the Semester</summary>
 
   Findings from this analysis indicate an overall decline in usage of e-resource materials. All current hypotheses connect back to student research habits. Considering that usage often peaks at the midpoint of each semester, Willamette’s teaching librarians can take advantage of the early semester weeks to visit classes that heavily rely on academic research. This includes capstone courses, capstone prep-classes, and other research/literature review-heavy courses. These visits allow librarians to promote the e-resources and demonstrate how e-resources at Willamette’s libraries can be utilized prior to usage peaks in the semester.
+
 <details>
 
 <details>
@@ -101,6 +102,7 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
   <summary>Recommendation 3: Consider resources for Women’s and Gender Studies (WGS)</summary>
 
   When considering publishers and representation of journals across departments,  Springer and Sage tend to have a larger collection of unique journals, but Taylor & Francis, though smaller by total count of journals, has a higher number of departments represented. Furthermore, analysis shows that WGS is unique as it is ranked lower in representation of journals, yet ranks higher in terms of requests, and requests per student enrolled in the department. Furthermore, for Taylor & Francis, WGS (along with Math) appears to be one of the most requested topics/departments. This may indicate that, at the least, resources for WGS should be considered. Taylor & Francis should also be considered because it represents a wider variety of departments and seems to fulfill requests for WGS materials.
+  
 </details>
 
 
