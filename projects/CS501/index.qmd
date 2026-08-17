@@ -44,9 +44,8 @@ This project analyzes 30+ years of healthcare spending and health outcome data f
 
 ## Deliverables
 
-<iframe 
-src="Healthcare%20Spending%20%26%20Outcomes.pdf" width="100%" height="800px"
-style="border: 1px solid #ddd; margin-top: 1rem;">
+<iframe src="Healthcare%20Spending%20%26%20Outcomes.pdf" width="100%" height="800px"
+  style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
 - 🔗 [Slides](Healthcare%20Spending%20%26%20Outcomes.pdf)
