@@ -24,13 +24,27 @@ This project analyzes 30+ years of healthcare spending and health outcome data f
 
 - Utilized Python packages (Pandas, Matplotlib, Seaborn, scikitlearn) to visualize and model between state clinical spending and hospitalizations. 
 
-- Translated findings into key recommendations for stakeholders (e.g. policy makers and public health professionals) and presented findings to audience of 30.
+- Translated findings into key recommendations for stakeholders (e.g. policy makers and public health professionals) and presented findings to 30 people audience.
 
-##  Key Findings and 
+##  Key Findings and Recommendations
+
+**Finding 1: Investment in Preventative Care Matters**  Spending on clinical and physician care has a strong correlation with lower hospitalization rates. Investing in this category prevents health emergencies. The current healthcare system creates inefficiency by targeting budget allocation to reactive care instead of preventive care. 
+
+**Recommendation:** Investment for the U.S. healthcare spending budget into prevention, such as clinical and physician care.
+
+
+**Finding 2: Demographic differences affect healthcare outcomes** Cost is a significant barrier to accessibility of preventative care, specifically doctor visits. Financial barriers disproportionally affect BIPOC communities, creating disparities and inequity in access to care based on ethnicity.Accessibility is also often influenced by geographic location, like in Alaska and the District of Colombia.
+
+**Recommendations:** 
+
+- Take equity into consideration when allocating funds to clinical care, using spending to help groups who face significant barriers to access
+
+- In the creation of new healthcare programs, explore nuances in regions with high hospitalizations and low clinical spending
+
 
 ## Deliverables
 
-<iframe src="projects\CS501\Healthcare Spending & Outcomes.pdf" width="100%" height="800px"
+<iframe src="projects\CS501\Healthcare%20Spending%20%26%20Outcomes.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
