@@ -48,9 +48,14 @@ At Multnomah County Health Department, I worked with across Health Department di
 
 ## Relevant Projects
 
-**Exploring Multifaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs** — see the [Projects page](pheal_capstone.qmd) for the full story.
+**Exploring Multifaceted Approaches to Engaging Community Voice to Assess and Understand Community Health Needs** — see the [Public Health Capstone](pheal_capstone.qmd) for the full story.
 
-- By examining multiple approaches, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
+- By examining multiple approaches to engaging community in data collection, this project documents and encourages inclusive and collaborative community assessments that are foundational to public health practice.
+
+
+**Reading the Data: And Analysis of Willamette University Library's E-Resource Usage** - see the [Data Science Capstone](capstone.qmd) for the full story.
+
+- This project explores the intersection between library usage and enrollment data to make key recommendations for a key community institution to tailor resources to match student needs.
 
 <!-- *Placeholders in brackets are fine while you build. Replace them with real,
 defensible entries as they materialize — sparse and true beats full and shaky.* -->
