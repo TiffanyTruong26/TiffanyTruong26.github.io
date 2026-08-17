@@ -62,7 +62,7 @@ Women’s & Gender Studies (WGS) is a huge outlier, with an average of 3.88 majo
 
 3. use by other campus organizations like the Gender Resource & Advocacy Center (GRAC).
 
-![Deparment Representation](project/capstone/fig5.png){fig-alt="Placeholder capstone figure" width="90%"}
+![Deparment Representation](projects/capstone/fig5.png){fig-alt="Placeholder capstone figure" width="90%"}
 
 Figure 5 ranks the top 20 departments represented within this dataset based on the count of journals and total unique journal requests. The left most figure ranks departments by the count of unique journals categorized under that department. The right most figure ranks departments by total unique requests. The horizontal axis represents the metric for ranking (Count of Unique Journals or Unique Journal Requests). The vertical axis indicates the department.
 
