@@ -62,21 +62,21 @@ Women’s & Gender Studies (WGS) is a huge outlier, with an average of 3.88 majo
 
 3. use by other campus organizations like the Gender Resource & Advocacy Center (GRAC).
 
-![Deparment Representation](projects/capstone/fig5.png){fig-alt="Placeholder capstone figure" width="90%"}
+![Department Representation](projects/capstone/fig5.png){fig-alt="Placeholder capstone figure" width="90%"}
 
 Figure 5 ranks the top 20 departments represented within this dataset based on the count of journals and total unique journal requests. The left most figure ranks departments by the count of unique journals categorized under that department. The right most figure ranks departments by total unique requests. The horizontal axis represents the metric for ranking (Count of Unique Journals or Unique Journal Requests). The vertical axis indicates the department.
 
 The top 5 departments remain consistent in terms of representation ranking across both metrics. However, several departments show some discrepancy between count of journals and usage. These include:
 
-- Women’s Gender Studies (WGS):  By count of journals, WGS was ranked 18th, while in terms of requests, WGS is ranked 10th.
+- **Women’s Gender Studies (WGS):**  By count of journals, WGS was ranked 18th, while in terms of requests, WGS is ranked 10th.
 
-- Computer Science (CS): By count of journals, CS is ranked 20th. By requests, CS does not make the top 20.
+- **Computer Science (CS):** By count of journals, CS is ranked 20th. By requests, CS does not make the top 20.
 
-- Chemistry (CHEM): By count of journals, CHEM is ranked 13th. By requests, CHEM is ranked 17th.
+- **Chemistry (CHEM):** By count of journals, CHEM is ranked 13th. By requests, CHEM is ranked 17th.
 
-- Exercise Health Science (EXHS): By count of journals, EXHS ranks 10th. By requests, EXHS is ranked 6th.
+- **Exercise Health Science (EXHS):** By count of journals, EXHS ranks 10th. By requests, EXHS is ranked 6th.
 
-- Math (MATH): By count of journals, MATH ranks 17th. By requests, MATH ranks 14th.
+- **Math (MATH):** By count of journals, MATH ranks 17th. By requests, MATH ranks 14th.
 
 
 ## Discussion & Recommendations
@@ -110,19 +110,22 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
 
 ::: {.panel-tabset}
 
-### A · Poster
+### Poster
 
 <iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
-### B · Embedded PDF
+### Embedded PDF
 
 ```markdown
-[Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
+Coming Soon!
+
+<!-- [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
 
 <iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
-  style="border: 1px solid #ddd;"></iframe>
+  style="border: 1px solid #ddd;"></iframe> -->
+
 ```
 
 :::
