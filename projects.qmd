@@ -11,5 +11,5 @@ listing:
   fields: [image, date, title, description, categories]
 ---
 
-Explore some projects I have been a part of. This incudes course projects, analyses I've done for fun, contributions and more. My capstones are available in their own tabs. This includes my [Data Science Capstone](capstone.qmd) and my [Public Health Capstone](pheal_capstone.qmd).
+Explore some projects I have been a part of. This incudes course projects, analyses I've done for fun, contributions and more. My capstones are available in their own tabs, including my [Data Science Capstone](capstone.qmd) and my [Public Health Capstone](pheal_capstone.qmd).
 
