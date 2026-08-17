@@ -121,14 +121,12 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
 ```markdown
 Coming Soon!
 
+```
+:::
 <!-- [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
 
 <iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe> -->
-
-```
-
-:::
 
 ## Dig deeper
 
