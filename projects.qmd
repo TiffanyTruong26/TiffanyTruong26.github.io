@@ -11,9 +11,5 @@ listing:
   fields: [image, date, title, description, categories]
 ---
 
-Your capstone lives on [its own page](capstone.qmd). Everything else — course
-projects, analyses you did for fun, contributions — collects here automatically.
+Explore some projects I have been a part of. This incudes course projects, analyses I've done for fun, contributions and more. My capstones are available in their own tabs. This includes my [Data Science Capstone](capstone.qmd) and my [Public Health Capstone](pheal_capstone.qmd).
 
-Each project is a folder under `projects/` with an `index.qmd`. Add a folder,
-re-render, and a new card shows up. Delete the example below once you have one
-real project of your own.
