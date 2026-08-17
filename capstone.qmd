@@ -46,7 +46,7 @@ We use exploratory analysis and descriptive statistics rather than predictive mo
 
 ## Findings
 
-![E-Resource Usage Over Time](projects/capstone/fig1.png){fig-alt="Placeholder capstone figure" width="90%"}
+![E-Resource Usage Over Time](projects/capstone/fig1.png)
 
 Usage tracks the academic calendar closely. Requests peak in the middle of each term, fall off sharply during winter and summer breaks, and reach their yearly low in June and July. Fall consistently produces the highest sustained usage of the three terms.
 
@@ -62,12 +62,42 @@ Women’s & Gender Studies (WGS) is a huge outlier, with an average of 3.88 majo
 
 3. use by other campus organizations like the Gender Resource & Advocacy Center (GRAC).
 
-Overall, this graphic shows that enrollment is not a strong indicator of journal usage, given the variation and the volume of out-of-major journal usage by students, faculty and staff alike.
+![Deparment Representation](project/capstone/fig5.png){fig-alt="Placeholder capstone figure" width="90%"}
+
+Figure 5 ranks the top 20 departments represented within this dataset based on the count of journals and total unique journal requests. The left most figure ranks departments by the count of unique journals categorized under that department. The right most figure ranks departments by total unique requests. The horizontal axis represents the metric for ranking (Count of Unique Journals or Unique Journal Requests). The vertical axis indicates the department.
+
+The top 5 departments remain consistent in terms of representation ranking across both metrics. However, several departments show some discrepancy between count of journals and usage. These include:
+
+- Women’s Gender Studies (WGS):  By count of journals, WGS was ranked 18th, while in terms of requests, WGS is ranked 10th.
+
+- Computer Science (CS): By count of journals, CS is ranked 20th. By requests, CS does not make the top 20.
+
+- Chemistry (CHEM): By count of journals, CHEM is ranked 13th. By requests, CHEM is ranked 17th.
+
+- Exercise Health Science (EXHS): By count of journals, EXHS ranks 10th. By requests, EXHS is ranked 6th.
+
+- Math (MATH): By count of journals, MATH ranks 17th. By requests, MATH ranks 14th.
 
 
-## Discussion/Outcomes
+## Discussion & Recommendations
 
-While the above hypotheses require further research to fully understand and confirm their validity, this indicates an overall need to develop a better understanding of what student needs are regarding library resources. Understanding how students are navigating research, what research tools students are exposed to in classes, and finally, what resources/topics of interest are to the student body will allow Willamette’s librarians to better tailor and optimize resources to the needs of Willamette’s student body.
+The analysis of usage patterns based on semesters, departments/subject matters, course offerings, and publisher revealed several strong patterns. These patterns indicate changing resource usage, so our suggestions link student research behavior, enrollment, and publisher offerings to support navigating these shifts.
+
+
+<details>
+  <summary>Recommendation 1: Promote Library E-Resources Early in the Semester </summary>
+
+  Findings from this analysis indicate an overall decline in usage of e-resource materials. All current hypotheses connect back to student research habits. Considering that usage often peaks at the midpoint of each semester, Willamette’s teaching librarians can take advantage of the early semester weeks to visit classes that heavily rely on academic research. This includes capstone courses, capstone prep-classes, and other research/literature review-heavy courses. These visits allow librarians to promote the e-resources and demonstrate how e-resources at Willamette’s libraries can be utilized prior to usage peaks in the semester.
+
+  <summary>Recommendation 2: Consider Enrollment per semester while taking note of overall campus topic interests</summary>
+
+  As enrollment for a major during a given semester increases, usage requests for journals relating to that subject also increase. This is a feature to consider when identifying which topic areas/journals students may request most and which are important to invest in. Outliers, such as the Women’s and Gender Studies major, where enrollment is low but requests per student are high, present another feature to consider. We hypothesize this discrepancy is due to the popularity of WGS at Willamette and its interdisciplinary use across multiple majors and schools. Willamette’s librarians should consider enrollment within academic disciplines but also consider which topics are known to be interdisciplinary and generally popular across campus.
+
+  <summary>Recommendation 3: Consider resources for Women’s and Gender Studies (WGS)</summary>
+
+  When considering publishers and representation of journals across departments,  Springer and Sage tend to have a larger collection of unique journals, but Taylor & Francis, though smaller by total count of journals, has a higher number of departments represented. Furthermore, analysis shows that WGS is unique as it is ranked lower in representation of journals, yet ranks higher in terms of requests, and requests per student enrolled in the department. Furthermore, for Taylor & Francis, WGS (along with Math) appears to be one of the most requested topics/departments. This may indicate that, at the least, resources for WGS should be considered. Taylor & Francis should also be considered because it represents a wider variety of departments and seems to fulfill requests for WGS materials.
+
+</details>
 
 
 ## Deliverables
@@ -76,8 +106,9 @@ While the above hypotheses require further research to fully understand and conf
 
 ### A · Poster
 
-<iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
-  style="border: 1px solid #ddd;"></iframe>
+<iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
+  style="border: 1px solid #ddd; margin-top: 1rem;">
+</iframe>
 
 ### B · Embedded PDF
 
@@ -88,23 +119,10 @@ While the above hypotheses require further research to fully understand and conf
   style="border: 1px solid #ddd;"></iframe>
 ```
 
-### C · Published Google Doc
-
-```markdown
-[Read the full write-up](https://docs.google.com/document/d/e/XXXX/pub){.btn .btn-primary}
-
-<iframe src="https://docs.google.com/document/d/e/XXXX/pub?embedded=true"
-  width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
-```
-
-::: -->
-
-<iframe src="projects/capstone/M5%20Final%20Poster.pdf" width="100%" height="800px"
-  style="border: 1px solid #ddd; margin-top: 1rem;">
-</iframe>
+:::
 
 ## Dig deeper
 
-- 📦 **code & pipeline:** [GitHub Repository](https://github.com/sophiarabb/data510-libraries)
-- 📊 **poster:** [Final Poster](projects/capstone/M5%20Final%20Poster.pdf)
-- 🌐 **capstone website:** [Capstone Website](https://sophiarabb.github.io/reading-the-data-capstone.github.io/)
+- 📦 **Code & Pipeline:** [GitHub Repository](https://github.com/sophiarabb/data510-libraries)
+- 📊 **Poster:** [Final Poster](projects/capstone/M5%20Final%20Poster.pdf)
+- 🌐 **Capstone Website:** [Capstone Website](https://sophiarabb.github.io/reading-the-data-capstone.github.io/)
