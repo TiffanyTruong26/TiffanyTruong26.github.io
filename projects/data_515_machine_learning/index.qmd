@@ -1,0 +1,23 @@
+---
+title: "Healthcare Spending and Outcomes"
+description: "Visualizes State Clinical Spending and Health Outcomes to Advocate for Increased Equitable Preventative Spending in Healthcare "
+date: 2025-12-10
+image: data_515_thumbnail.png
+categories: [course-work, python, visualization, machine learning, public health]
+toc: true
+---
+
+## About
+
+Neighborhood is often linked to opportunity and resources. This includes access to fresh air, clean water, well-resourced schools. When considering Toxic Release, researchers have identified that lower-income communities, and communities of color are more likely to live near sites wth toxic releases (University of Illinois Springfield)
+### What I Did
+
+##  Key Findings and Results
+
+## Deliverables
+
+<iframe src="data_515_presentation.pdf" width="100%" height="800px"
+  style="border: 1px solid #ddd; margin-top: 1rem;">
+</iframe>
+
+- 🔗 [Slides](health_care_spending_outcomes.pdf)
