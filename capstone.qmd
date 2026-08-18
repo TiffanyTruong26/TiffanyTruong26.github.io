@@ -119,7 +119,7 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
 ### Embedded PDF
 
 <iframe src="projects/capstone/M5_Final_Write_Up.pdf" width="100%" height="800px"
-  style="border: 1px solid #ddd;"></iframe> -->
+  style="border: 1px solid #ddd;"></iframe>
 
 :::
 <!-- [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}-->
