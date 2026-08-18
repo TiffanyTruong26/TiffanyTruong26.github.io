@@ -14,7 +14,9 @@ Neighborhood is often linked to opportunity and resources. This includes access 
 ### Our Research Questions
 
 **Topic 1:** Do lower income areas attract toxic-release facilities? 
+
     - Subquestion 1: Can we predict facility location and density based on income and demographic data?
+    
     - Subquestion 2: Can we predict toxic release based on income aggregated by zip code?
 
 **Topic 2:** Do toxic-release facilities and hazardous waste correlate in communities with a higher percentage of people of color? 
