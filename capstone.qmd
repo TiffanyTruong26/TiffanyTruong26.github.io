@@ -116,7 +116,7 @@ The analysis of usage patterns based on semesters, departments/subject matters, 
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
-### Embedded PDF
+### Write Up
 
 <iframe src="projects/capstone/M5_Final_Write_Up.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
