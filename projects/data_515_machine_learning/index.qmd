@@ -1,7 +1,7 @@
 ---
-title: "Healthcare Spending and Outcomes"
-description: "Visualizes State Clinical Spending and Health Outcomes to Advocate for Increased Equitable Preventative Spending in Healthcare "
-date: 2025-12-10
+title: "What's in Your Community? Toxic Chemical Release Analysis"
+description: Machine learning and Statistical analysis to explore relationship between race and income and proximity of toxic release"
+date: 2026-08-10
 image: data_515_thumbnail.png
 categories: [course-work, python, visualization, machine learning, public health]
 toc: true
@@ -48,4 +48,4 @@ Neighborhood is often linked to opportunity and resources. This includes access 
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
 
-- 🔗 [Slides](health_care_spending_outcomes.pdf)
+- 🔗 [Slides](data_515_presentation.pdf)
