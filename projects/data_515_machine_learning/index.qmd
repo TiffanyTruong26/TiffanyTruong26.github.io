@@ -9,10 +9,38 @@ toc: true
 
 ## About
 
-Neighborhood is often linked to opportunity and resources. This includes access to fresh air, clean water, well-resourced schools. When considering Toxic Release, researchers have identified that lower-income communities, and communities of color are more likely to live near sites wth toxic releases (University of Illinois Springfield)
+Neighborhood is often linked to opportunity and resources. This includes access to fresh air, clean water, and well-resourced schools. When considering Toxic Release, researchers have identified that lower-income communities, and communities of color are more likely to live near sites with toxic releases (University of Illinois Springfield). With this knowledge, this project utilizes machine learning and statistical methods to explore if socioeconomic factors such as race/ethnicity and income in a given census tract impact proximity of facilities within the census tract.
+
+### Our Research Questions
+
+**Topic 1:** Do lower income areas attract toxic-release facilities? 
+    - Subquestion 1: Can we predict facility location and density based on income and demographic data?
+    - Subquestion 2: Can we predict toxic release based on income aggregated by zip code?
+
+**Topic 2:** Do toxic-release facilities and hazardous waste correlate in communities with a higher percentage of people of color? 
+
+
 ### What I Did
 
+- Conducted background research on redlining and history of neighborhood disparities to provide background and motivation for the project.
+
+- Utilized R packages to map historical redlining and median_income across modern day census tracts.
+
+- Trained a XGBRegression model to predict facility density within a given census tract based on income, and race/ethnicity data
+
+
 ##  Key Findings and Results
+
+**Topic 1: Do lower income areas attract toxic-release facilities?**
+
+- Lower income tracts have a higher probability of having a toxic facility and of census tracts that have any facilities, higher median income tends to decrease the facility density within the census. However, when aggregated by zip code, income cannot predict toxic release.
+
+**Topic 2: Do toxic-rlease facilities and hazardous waste correlate in communities with a higher percentage of people of color?**
+
+- There are positive correlations between risk residuals and non-white communities: signaling that toxic risk are unexpectedly higher in those facilities. Of the top 10% highest-polluting facilities and chemicals, the majority exists in high-diversity communities.  
+
+- For census tracts that have any facilities, a higher percentage of people identifying as White tends to push down the facility density within that trac same tract.
+
 
 ## Deliverables
 
